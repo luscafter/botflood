@@ -58,7 +58,7 @@ $ sudo mv geckodriver /bin
 Now download the _BotFlood_ repository:
 
 ```bash
-$ git clone https://www.github.com/luscafter/botflood.git
+$ git clone https://github.com/luscafter/botflood.git
 ```
 
 ## Changes
