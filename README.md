@@ -2,6 +2,8 @@
 
 Tool to "flood" messaging and comment services. Currently, the tool is still in the development phase, containing only Facebook publications as the target of "floods", but soon it will have more applications, such as WhatsApp, Instagram, Discord, Twitter and YouTube.
 
+![Screenshot_20200426_205409](https://user-images.githubusercontent.com/58787069/80329701-8b3fde00-8819-11ea-95c1-fce9467c590d.png)
+
 ## Prerequisites
 
 >_Python 3, Selenium and GeckoDriver_.
